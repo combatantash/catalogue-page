@@ -87,10 +87,9 @@ Then click on **Create pull request**.
 
 ## Tech Stack ✨
 
-HTML
+HTML,
 CSS
 
-**Note:** You must add the corresponding auto-generated file in the `.gitignore` file.
 
 ## Authors 🐱‍💻
 
