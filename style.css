@@ -42,3 +42,11 @@ div.marq {
      font-family: serif;
      padding-top: 5px;
 }
+
+.my-btn{
+     border-radius: 7px;
+}
+
+.my-img{
+     border-radius: 13px;
+}
