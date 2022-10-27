@@ -5,7 +5,7 @@ body{
      font-weight: 92;
 }
 header {
-     background-color: black;
+     background-color: rgb(48, 77, 236);
      border-radius: 0%;
      margin-bottom: 0;
 }
@@ -21,8 +21,8 @@ h1 {
 
 div.ever {
      margin-top: -10px;
-     background-color: palevioletred;
-     color: black;
+     background-color: rgb(99, 184, 240);
+     color: rgb(11, 8, 14);
      height: 25px;
 }
 h4 {
@@ -34,7 +34,7 @@ h4 {
 }
 
 div.marq {
-     background-color: rgb(14, 88, 47);
+     background-color: rgb(255, 255, 255);
      color: white;
      height: 40px;
      margin-top: 0;
