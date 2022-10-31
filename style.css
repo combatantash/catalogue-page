@@ -219,3 +219,59 @@ section {
 		float: none;
 	}
 }
+=======
+     margin: 12px;
+     padding: 12px;
+     font-family:'Times New Roman', Times, serif;
+     font-weight: 92;
+}
+header {
+     background-color: rgb(48, 77, 236);
+     border-radius: 0%;
+     margin-bottom: 0;
+}
+
+h1 {
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     color: whitesmoke;
+     text-align: center;
+     padding-top: 25px;
+     padding-bottom: 15px;
+            
+}
+
+div.ever {
+     margin-top: -10px;
+     background-color: rgb(99, 184, 240);
+     color: rgb(11, 8, 14);
+     height: 25px;
+}
+h4 {
+     margin-top: 0;
+     text-align: right;
+     padding-right: 20px;
+     padding-top: 2px;
+     font-family: serif;
+}
+
+div.marq {
+     background-color: rgb(255, 255, 255);
+     color: white;
+     height: 40px;
+     margin-top: 0;
+     font-size: 30;
+     font-family: serif;
+     padding-top: 5px;
+}
+
+.my-btn{
+     border-radius: 7px;
+}
+
+.my-img{
+     border-radius: 13px;
+}
+
+.my-btn-top{
+     margin-left: 1275px;
+}
